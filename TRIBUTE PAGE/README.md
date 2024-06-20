@@ -1,1 +1,1 @@
-
+"This repository contains a tribute page dedicated to virat kholi. It showcases virat kholi life, achievements, and contributions in sports and cricket . The page is built using HTML, CSS. It includes sections detailing virat kholi biography, notable accomplishments, and impact, complemented by images or media that highlight key moments. This project serves as both a learning exercise in web development and a tribute to virat kholi's legacy. Feel free to explore the code and content to learn more about virat kholi and the technologies used to create this tribute."
